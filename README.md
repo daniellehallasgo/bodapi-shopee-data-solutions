@@ -1,4 +1,4 @@
-# bodapi-shopee-data-solutions
+# bodapi-shopee-scraping-solutions
 Professional Shopee Price Monitoring, Data Scraping, and E-commerce Market Analysis Services.
 
 # 🛒 Shopee: Premium Price Monitoring & Data Solutions
